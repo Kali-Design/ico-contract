@@ -20,7 +20,4 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 Ce projet est sous licence `MIT` - voir le fichier [LICENSE.txt](https://github.com/Kali-Design/project-nft/blob/main/LICENSE.txt) pour plus d'informations
-# project-nft
-
-
 # ico-contract
