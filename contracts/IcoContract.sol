@@ -3,12 +3,12 @@
 pragma solidity ^0.6.0;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "./IcoToken.sol";
 import "@openzeppelin/contracts/utils/Address.sol";
+import "./IcoToken.sol";
 
 
  /// @title 
- /// @author HM
+ /// @author
  /// @dev 
 
 contract IcoContract is Ownable {
