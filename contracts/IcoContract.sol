@@ -23,7 +23,7 @@ contract IcoContract is Ownable {
 
    
     /// @dev Set the ERC20 address and start the ICO for 14 days.
-    /// @param tokenAddress Set the address of the ERC20 RoToken.
+    /// @param tokenAddress Set the address of the ERC20.
     
     constructor(address tokenAddress) {
         _token = IcoToken(tokenAddress);
